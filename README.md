@@ -5,6 +5,19 @@ Hi! My name is Aidan Reyes and I am a rising fourth-year undergraduate student a
 
 You can reach me on my personal email @aidanreyes2005@gmail.com
 
+## Languages
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white),
+
+R
+
+Java
+
+C++ 
+
+SQL 
+
+SAS
 <!--
 **aidandreyes/aidandreyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -17,14 +17,14 @@ You can reach me on my personal email @aidanreyes2005@gmail.com
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 
-SQL 
-
-SAS
+[![SQL](https://img.shields.io/badge/SQL-00BFFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNjQgMzYuNTVjLTI1LjE3MiAwLTQ1LjU4Mi03LjEwOS00NS41ODItMTYuNDk1djg3Ljg5YzAgOS4wMzIgMjAuMDU1IDE2LjM1NiA0NC45NDEgMTYuNUg2NGMyNS4xNzIgMCA0NS41ODItNy4xMTMgNDUuNTgyLTE2LjV2LTg3Ljg5QzEwOS41ODIgMjkuMjI2IDg5LjE3MiAzNi41NSA2NCAzNi41NVptMCAwIi8+PC9zdmc+&logoColor=white)](#)
+[![SAS](https://img.shields.io/badge/SAS-1E90FF?style=for-the-badge&logo=sas&logoColor=white)](#)
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
+[![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+[![CLion](https://img.shields.io/badge/CLion-21D789?style=for-the-badge&logo=clion&logoColor=black)](#)
 
 <!--
 **aidandreyes/aidandreyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

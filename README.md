@@ -3,7 +3,7 @@
 ## About me
 Hi! My name is Aidan Reyes and I am a rising fourth-year undergraduate student at San Diego State University pursuing a B.S. in Statistics with an Emphasis in Data Science.
 
-You can reach me at @aidanreyes2005@gmail.com
+You can reach me at @aidanreyes2005@gmail.com.
 
 ## Languages & Softwares
 
@@ -24,7 +24,8 @@ You can reach me at @aidanreyes2005@gmail.com
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
 [![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
-[![CLion](https://img.shields.io/badge/CLion-21D789?style=for-the-badge&logo=clion&logoColor=black)](#)
+![CLion](https://img.shields.io/badge/-CLion-8A2BE2%3Flogo%3Dclion?logo=clion&color=orange)
+
 
 <!--
 **aidandreyes/aidandreyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

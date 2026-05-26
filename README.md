@@ -3,7 +3,7 @@
 ## About me
 Hi! My name is Aidan Reyes and I am a rising fourth-year undergraduate student at San Diego State University pursuing a B.S. in Statistics with an Emphasis in Data Science.
 
-You can reach me on my personal email @aidanreyes2005@gmail.com
+You can reach me at @aidanreyes2005@gmail.com
 
 ## Languages & Softwares
 

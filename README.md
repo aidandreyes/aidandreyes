@@ -26,11 +26,16 @@ You can reach me at @aidanreyes2005@gmail.com.
 [![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 ![CLion](https://img.shields.io/badge/-CLion-8A2BE2%3Flogo%3Dclion?logo=clion&color=orange)
+![Minitab](https://img.shields.io/badge/-Minitab-green)
+![Excel](https://img.shields.io/badge/-Excel-darkgreen)
+
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aidandreyes&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aidandreyes&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aidandreyes&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aidandreyes&theme=nord_dark)
+
 
 
 <!--

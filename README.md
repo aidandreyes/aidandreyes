@@ -21,9 +21,9 @@ You can reach me at @aidanreyes2005@gmail.com.
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 
 
-![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)
+![Jupyter](https://img.shields.io/badge/Jupyter%20Notebooks-ffffff?logo=Jupyter)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
-[![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
+[![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 ![CLion](https://img.shields.io/badge/-CLion-8A2BE2%3Flogo%3Dclion?logo=clion&color=orange)
 ![Minitab](https://img.shields.io/badge/-Minitab-green)
